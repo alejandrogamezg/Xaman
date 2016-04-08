@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>backward.png</file>
+        <file>Iconos/head_maya.png</file>
+        <file>Iconos/bigpantalla_icon.png</file>
+        <file>Iconos/degradado_blanco.png</file>
+        <file>Iconos/degradado_negro.png</file>
+        <file>Iconos/degradado_negro_confondo.png</file>
+        <file>Iconos/eliminar_icon.png</file>
+        <file>Iconos/forward_icon.png</file>
+        <file>Iconos/listanueva_icon.png</file>
+        <file>Iconos/pestania_libreria.png</file>
+        <file>Iconos/pestania_principal.png</file>
+        <file>Iconos/play_icon.png</file>
+        <file>Iconos/rewind_icon.png</file>
+        <file>Iconos/silence_icon.png</file>
+        <file>Iconos/sound_icon.png</file>
+        <file>Iconos/stop_icon.png</file>
+        <file>Iconos/head_LOGO.png</file>
+        <file>Iconos/XAMon.png</file>
+        <file>Iconos/XAMoff.png</file>
+        <file>Iconos/XAMAN_1.gif</file>
+        <file>Iconos/view-fullscreen-symbolic.png</file>
+    </qresource>
+    <qresource prefix="/playlist">
+        <file>PlayList/ListasdeReproduccion.xml</file>
+    </qresource>
+</RCC>
