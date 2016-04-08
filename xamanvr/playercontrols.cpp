@@ -297,7 +297,6 @@ void PlayerControls::playClicked()
 {
     switch (playerState) {
     case QMediaPlayer::StoppedState:
-        emit stop();
     case QMediaPlayer::PausedState:
         emit play();
         break;

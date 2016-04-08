@@ -41,7 +41,6 @@ private:
     QTcpSocket *socket;
     bool state = false;
     QAction* encender;
-    QAction* esperar;
     QAction* reiniciar;
     QAction* apagar;
     QMenu* menu;
